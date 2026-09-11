@@ -156,6 +156,14 @@ The notebook includes:
 
 ## 📚 Resources
 
+### Project Reference
+- **Project Roadmap**: [Querying SQL Python - roadmap.sh](https://roadmap.sh/projects/querying-sql-python)
+
+### Database Source
+- **Chinook Database**: [lerocha/chinook-database](https://github.com/lerocha/chinook-database)
+- **Database File**: [Chinook_Sqlite.sqlite](https://github.com/lerocha/chinook-database/blob/master/ChinookDatabase/DataSources/Chinook_Sqlite.sqlite)
+
+### Documentation
 - [SQLite Documentation](https://www.sqlite.org/docs.html)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [SQL Tutorial](https://www.w3schools.com/sql/)
